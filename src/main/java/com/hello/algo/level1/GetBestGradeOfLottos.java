@@ -1,4 +1,4 @@
-package com.hello.codingtest.level1;
+package com.hello.algo.level1;
 
 public class GetBestGradeOfLottos {
 
